@@ -1,12 +1,10 @@
 {"users": [
       {
         "id": 1,
-        "admin": true,
         "email": "renee@reneedoll.com"
       },
       {
         "id": 2,
-        "admin": false,
         "email": "red@redbull.com"
       }
     ],
@@ -14,26 +12,26 @@
       {
         "id": 1,
         "userID": 1,
-        "speciesID": 1,
-        "name": "Fishie"
+        "fishID": 1,
+        "name": "Axie"
       },
       {
         "id": 2,
         "userID": 1,
-        "speciesID": 2,
+        "fishID": 2,
         "name": "Footie"
       },
       {
         "id": 3,
         "userID": 1,
-        "speciesID": 3,
-        "name": "Poofy"
+        "fishID": 3,
+        "name": "Poofie"
       },
       {
         "id": 4,
         "userID": 1,
-        "speciesID": 7,
-        "name": "Parroty"
+        "fishID": 7,
+        "name": "Parrotie"
       }
     ],
     "fish": [
