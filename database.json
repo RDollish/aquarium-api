@@ -32,6 +32,18 @@
         "userID": 1,
         "fishID": 7,
         "name": "Parrotie"
+      },
+      {
+        "userID": 1,
+        "fishID": "8",
+        "name": "Bloop",
+        "id": 5
+      },
+      {
+        "userID": 1,
+        "fishID": "4",
+        "name": "Whee",
+        "id": 6
       }
     ],
     "fish": [
