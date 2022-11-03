@@ -1,13 +1,13 @@
 {"users": [
-      {
-        "id": 1,
-        "email": "renee@reneedoll.com"
-      },
-      {
-        "id": 2,
-        "email": "red@redbull.com"
-      }
-    ],
+  {
+    "id": 1,
+    "email": "renee@reneedoll.com"
+  },
+  {
+    "email": "r@d.com",
+    "id": 2
+  }
+],
     "userFish": [
       {
         "id": 1,
@@ -35,13 +35,13 @@
       },
       {
         "userID": 1,
-        "fishID": "8",
+        "fishID": 8,
         "name": "Bloop",
         "id": 5
       },
       {
         "userID": 1,
-        "fishID": "4",
+        "fishID": 4,
         "name": "Whee",
         "id": 6
       }
@@ -50,44 +50,46 @@
       {
         "id": 1,
         "name": "Axolotl",
-        "species": "Axolotl",
-        "sprite": "./sprites/axolotl.gif"
+        "species": "Axolotl"
       },
       {
         "id": 2,
         "name": "ScalyFootGastopod",
-        "species": "Scaly Foot Gastopod",
-        "sprite": "./sprites/gastropod-scaly-foot.gif"
+        "species": "Scaly Foot Gastopod"
       },      {
         "id": 3,
         "name": "SeaTurtle",
-        "species": "Sea Turtle",
-        "sprite": "./sprites/seaturtle.gif"
+        "species": "Sea Turtle"
       },      {
         "id": 4,
         "name": "ThresherShark",
-        "species": "Thresher Shark",
-        "sprite": "./sprites/shark-thresher.gif"
+        "species": "Thresher Shark"
       },      {
         "id": 5,
         "name": "AnglerFish",
-        "species": "Angler Fish",
-        "sprite": "./sprites/fish-angler.gif"
+        "species": "Angler Fish"
       },      {
         "id": 6,
         "name": "RedCrab",
-        "species": "Red Crab",
-        "sprite": "./sprites/crab-red.gif"
+        "species": "Red Crab"
       },      {
         "id": 7,
         "name": "ParrotFish",
-        "species": "Parrot Fish",
-        "sprite": "./sprites/fish-parrot.gif"
+        "species": "Parrot Fish"
       },      {
         "id": 8,
         "name": "Whale",
-        "species": "Whale",
-        "sprite": "./sprites/whale.gif"
+        "species": "Whale"
+      },
+      {
+        "id": 9,
+        "name": "Tuna",
+        "species": "Tuna"
+      },
+      {
+        "id": 10,
+        "name": "Atlantic Wolf Fish",
+        "species": "AtlanticWolf"
       }
     ]
   }
